@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Rahul-Thirumala/Rahul-Thirumala/blob/main/data_science_github.jpg" width=100%  />
+<img src="https://github.com/nidhishastry08/nidhishastry08/blob/main/Data%20Science%20img.png" width=100%  />
 </p>
 
 ## Hi, My Name is Nidhi! 👋
