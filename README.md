@@ -4,9 +4,9 @@
 
 ## Hi, My Name is Nidhi! 👋
 
-I'm a passionate individual with a keen interest in data exploration and analysis, dedicated to promoting diversity within the tech industry.
+I am deeply committed to promoting data-driven insights and fostering inclusivity within the tech industry. Through my passion for unraveling complex datasets and utilizing advanced analytical techniques, I am committed to driving positive change and fostering an inclusive environment within the industry.
 
-I love what I do and I am always happy to chat.
+I am always open to engaging in enriching discussions.
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nidhiudayshastry)
 
